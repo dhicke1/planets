@@ -2,4 +2,4 @@ modified first line - Cold and dry, but everything is my favorite color
 The two moons may be a problem
 added a third line
 this is my change
-dave-this is my next change for conflicts
+this is beta again
